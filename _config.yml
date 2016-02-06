@@ -1,0 +1,28 @@
+name: Biofeedback
+favicon: null
+layout_spectrum: 0.33462785673327744
+typography_spectrum: 0.6131316667888314
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7933477039914578
+  lightness: 0.7807004866190255
+  saturation: 0.6859625342767686
+  rhythmicContrast: 0.7439577055629343
+purpose: []
